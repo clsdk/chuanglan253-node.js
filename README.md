@@ -1,6 +1,6 @@
 chuanglan
 chuanglan-demo-nodejs
-/*************node.js demo 使用说明*************/
+
 打开sms.js文件：填写对应的API账号,API密码
 
 sms_host 里面填写域名
